@@ -13,3 +13,6 @@ Este projeto foi desenvolvido para a disciplina de Design para Dispositivos Móv
 
 ### 🔗 Acesse o Protótipo
 https://www.figma.com/design/NG5WAo81hfOYbss0EDcdzT/Trabalho-Final?node-id=0-1&t=9rZqS3tetrySoUB6-1
+
+### 📸 Visualização do Fluxo de Navegação
+![Fluxo do Protótipo](Fluxo-do-prototipo.png)
